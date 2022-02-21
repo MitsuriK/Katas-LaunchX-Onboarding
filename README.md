@@ -1,1 +1,0 @@
-# LaunchX-Katas-Onboarding
